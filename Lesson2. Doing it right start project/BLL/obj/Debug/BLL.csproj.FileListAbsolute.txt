@@ -1,0 +1,5 @@
+C:\Endava\Projects\DotNetPractice\Lesson2. Doing it right start project\BLL\bin\Debug\BLL.dll
+C:\Endava\Projects\DotNetPractice\Lesson2. Doing it right start project\BLL\bin\Debug\BLL.pdb
+C:\Endava\Projects\DotNetPractice\Lesson2. Doing it right start project\BLL\obj\Debug\BLL.dll
+C:\Endava\Projects\DotNetPractice\Lesson2. Doing it right start project\BLL\obj\Debug\BLL.pdb
+C:\Endava\Projects\DotNetPractice\Lesson2. Doing it right start project\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache

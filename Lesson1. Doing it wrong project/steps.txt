@@ -1,0 +1,14 @@
+Problem:
+Mary has to build a simple list of featured products, pulled from a database table and displayed on a web page; an example is shown in figure 2.3. If the user viewing the list is a preferred customer, the price on all products should be discounted by five percent.
+
+
+Solution
+1. create a project with 3 layers: DAL, BSS/DLL, UI
+- DAL uses EF and it contains the context for Product entity
+- BSS refers DAL and exposes a ProductService that returns Product entity from DAL
+- UI referes BSS and returns the result.
+
+Obs:
+- EF must be refered in both DAL and BSS
+- DAL must be refered in BSS and UI also
+- What happens if we need change

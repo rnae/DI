@@ -1,0 +1,12 @@
+C:\Endava\Projects\DotNetPractice\Lesson2. Doing it right start project\DAL\bin\Debug\DAL.dll.config
+C:\Endava\Projects\DotNetPractice\Lesson2. Doing it right start project\DAL\bin\Debug\DAL.dll
+C:\Endava\Projects\DotNetPractice\Lesson2. Doing it right start project\DAL\bin\Debug\DAL.pdb
+C:\Endava\Projects\DotNetPractice\Lesson2. Doing it right start project\DAL\bin\Debug\BLL.dll
+C:\Endava\Projects\DotNetPractice\Lesson2. Doing it right start project\DAL\bin\Debug\EntityFramework.dll
+C:\Endava\Projects\DotNetPractice\Lesson2. Doing it right start project\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Endava\Projects\DotNetPractice\Lesson2. Doing it right start project\DAL\bin\Debug\BLL.pdb
+C:\Endava\Projects\DotNetPractice\Lesson2. Doing it right start project\DAL\bin\Debug\EntityFramework.xml
+C:\Endava\Projects\DotNetPractice\Lesson2. Doing it right start project\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Endava\Projects\DotNetPractice\Lesson2. Doing it right start project\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Endava\Projects\DotNetPractice\Lesson2. Doing it right start project\DAL\obj\Debug\DAL.dll
+C:\Endava\Projects\DotNetPractice\Lesson2. Doing it right start project\DAL\obj\Debug\DAL.pdb
